@@ -22,16 +22,13 @@
   <img src="https://skillicons.dev/icons?i=vscode,idea,postman,github,vercel" />
 </p>
 
+## 📊 GitHub Stats  
 
-  📊 GitHub Stats  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshay470&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akshay470&show_icons=true&theme=tokyonight" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshay470&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akshay470&theme=tokyonight&hide_border=true" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshay470&theme=tokyonight)
 
 
  📫 Connect With Me  
