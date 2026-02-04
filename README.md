@@ -26,10 +26,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshay470&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshay470&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshay470&theme=tokyonight)
-
 
  📫 Connect With Me  
 
