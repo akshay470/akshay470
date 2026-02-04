@@ -16,14 +16,21 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,html,css,react,nodejs,mysql,git,github,vscode" />
 </p>
 
+ 🛠 Tools & Platforms  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,github,vercel" />
+</p>
+
+
  📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay470&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshay470&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay470&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=akshay470&theme=tokyonight" />
 </p>
 
 
