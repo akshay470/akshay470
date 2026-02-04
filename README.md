@@ -7,6 +7,29 @@
  👨‍💻 About Me  
 - 🎓 B.Tech Computer Science Student.  
 - 🚀 Passionate about Full Stack Development and DSA.  
-- 💡 Love building real-world projects.  
 - 🌱 Currently learning Backend Development and System Design. 
 - 🤝 Open to collaborations and internships.
+
+-  ⚙️ Tech Stack  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,html,css,react,nodejs,mysql,git,github,vscode" />
+</p>
+
+ 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshay470&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay470&theme=tokyonight" />
+</p>
+
+
+ 📫 Connect With Me  
+
+- 📧 Email: akshaylad0604@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/akshay-lad-240715326/  
+
+
