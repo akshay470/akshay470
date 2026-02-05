@@ -30,6 +30,7 @@
  📫 Connect With Me  
 
 - 📧 Email: akshaylad0604@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/akshay-lad-240715326/  
+- 💼 LinkedIn: https://www.linkedin.com/in/akshay-lad-240715326/
+- 🌐 Portfolio: https://akshay-portfolio-six-rho.vercel.app/ 
 
 
