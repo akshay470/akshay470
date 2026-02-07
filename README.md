@@ -5,10 +5,11 @@
 </p>
 
  👨‍💻 About Me  
-- 🎓 B.Tech Computer Science Student.  
-- 🚀 Passionate about Full Stack Development and DSA.  
-- 🌱 Currently learning Backend Development and System Design. 
-- 🤝 Open to collaborations and internships.
+🎓 B.Tech Computer Science Student
+🚀 Passionate about Full Stack Development, App Development & DSA
+📱 Building Android applications alongside backend systems
+🌱 Currently learning Backend Development and System Design
+🤝 Open to collaborations, internships, and real-world projects
 
 -  ⚙️ Tech Stack  
 
