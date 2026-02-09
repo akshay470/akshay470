@@ -33,6 +33,10 @@
 
 - 📧 Email: akshaylad0604@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/akshay-lad-240715326/
-- 🌐 Portfolio: https://akshay-portfolio-six-rho.vercel.app/ 
+- 🌐 Portfolio: https://akshay-portfolio-six-rho.vercel.app/
+
+## 🧠 Tech + Thoughts
+- [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?logo=medium)](https://medium.com/@akshaylad0604)
+
 
 
