@@ -35,8 +35,11 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/akshay-lad-240715326/
 - 🌐 Portfolio: https://akshay-portfolio-six-rho.vercel.app/
 
-## 🧠 Tech + Thoughts
-- [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?logo=medium)](https://medium.com/@akshaylad0604)
+## ✍️ Where Code Meets Clarity
 
+I write about tech concepts, productivity, and real-life lessons —
+breaking complex ideas into simple words.
+
+[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-black?logo=medium)](https://medium.com/@akshaylad0604)
 
 
